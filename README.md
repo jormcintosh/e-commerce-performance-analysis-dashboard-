@@ -16,17 +16,19 @@ As a data analyst, I analyzed three months of fulfillment and sales data totalin
 
 5) What trends exist in sales, customer ratings, and delivery timelines?
 
- Key Performance Indicators (KPIs)
+ **Key Performance Indicators (KPIs)**
 
-**KPI	Description**
+Total Orders: Total number of completed customer orders
 
-Total Orders:	Total number of completed customer orders
 Total Quantity: Total items sold across all orders
+
 Total Amount: Total revenue generated
+
 Average Rating: Mean product rating across reviews
+
 Average Days to Deliver	Average delivery time (Delivery Date – Order Date)
 
-Key Insights & Recommendations
+**Key Insights & Recommendations**
 
 **Sales Trends**
 
