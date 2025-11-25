@@ -106,7 +106,7 @@ Ratings:
 🔍 Interesting Insights
 
 Sneakers are the biggest revenue driver despite not being the top in quantity → higher price point.
-App orders dominate, suggesting strong mobile engagement.
+App orders dominate, suggesting strong mobile engagement. 
 Los Angeles County alone accounts for ~33% of total revenue → huge regional concentration.
 Delivery is generally fast, but outliers (14 days) which can account for the lower end customer ratings (may need further investigation).
 
@@ -118,7 +118,7 @@ Recommendation: Increase visibility and stock levels of top performers.
 
 2. Customer Sentiment
 
-The overall average rating indicates strong customer satisfaction. However, specific product lines show lower ratings.
+The overall average rating indicates strong customer satisfaction. However, specific product lines such as Pajama Sets (3.81), Tote Bags (3.85), Hoodies and Sweatshirts (3.86) are the lowest rated products.
 
 Recommendation: Investigate customer complaints and consider quality improvements.
 
@@ -138,7 +138,7 @@ Removed duplicate rows and handled missing values
 
 Created calculated columns (e.g., Revenue = Quantity × Unit Price)
 
-Built SQL and DAX measures to power dashboard KPIs
+Built DAX measures to power dashboard KPIs
 
 Validated all fields for accuracy and consistency
 
