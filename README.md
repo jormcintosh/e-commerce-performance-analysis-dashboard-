@@ -110,19 +110,19 @@ App orders dominate, suggesting strong mobile engagement.
 Los Angeles County alone accounts for ~33% of total revenue → huge regional concentration.
 Delivery is generally fast, but there are outliers (14 days) which can account for the lower end customer ratings (may need further investigation).
 
-1. Sales Performance
+**1. Sales Performance**
 
-Order volume spikes during promotional periods and holidays. A small subset of products contributes the majority of revenue.
+Order volume spikes during promotional periods and holidays. A small subset of products (Sneakers, Jeans, Tank Tops) contribute to the majority of revenue.
 
 Recommendation: Increase visibility and stock levels of top performers.
 
-2. Customer Sentiment
+**2. Customer Sentiment**
 
 The overall average rating indicates strong customer satisfaction. However, specific product lines such as Pajama Sets (3.81), Tote Bags (3.85), Hoodies and Sweatshirts (3.86) are the lowest rated products.
 
 Recommendation: Investigate customer complaints and consider quality improvements.
 
-3. Operational Efficiency
+**3. Operational Efficiency**
 
 Average delivery time is within an acceptable range, but there is variability by supplier region.
 
@@ -142,9 +142,9 @@ Built DAX measures to power dashboard KPIs
 
 Validated all fields for accuracy and consistency
 
-📈 Dashboard Features
+**📈 Dashboard Features**
 
-The dashboard includes"
+The dashboard includes...
 
 KPI cards highlighting core business metrics
 
@@ -158,7 +158,7 @@ Delivery efficiency by category or region
 
 Interactive filters for deeper drill-through analysis
 
-📉 Charts & Visuals
+📉 **Charts & Visuals**
 1. Total Orders Trend Chart
 
 A line chart showing how total orders fluctuate over time. 
