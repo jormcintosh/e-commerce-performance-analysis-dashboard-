@@ -90,7 +90,7 @@ Alameda County: $31,885
 Delivery Time:
 
 Median: 2 days
-75% of customers orders delivered within 3 days
+75% of customers orders were delivered within 3 days
 Max delay: 14 days 
 
 
@@ -108,7 +108,7 @@ Ratings:
 Sneakers are the biggest revenue driver despite not being the top in quantity → higher price point.
 App orders dominate, suggesting strong mobile engagement. 
 Los Angeles County alone accounts for ~33% of total revenue → huge regional concentration.
-Delivery is generally fast, but outliers (14 days) which can account for the lower end customer ratings (may need further investigation).
+Delivery is generally fast, but there are outliers (14 days) which can account for the lower end customer ratings (may need further investigation).
 
 1. Sales Performance
 
@@ -161,8 +161,8 @@ Interactive filters for deeper drill-through analysis
 📉 Charts & Visuals
 1. Total Orders Trend Chart
 
-A line chart showing how total orders fluctuate over time.
-Helps identify seasonality, marketing impact, and demand cycles.
+A line chart showing how total orders fluctuate over time. 
+This helps identify seasonality, marketing impact, and demand cycles.
 
 2. Total Quantity by Product or Category
 
