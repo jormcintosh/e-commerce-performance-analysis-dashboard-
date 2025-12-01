@@ -1,6 +1,6 @@
 # e-commerce-performance-analysis-dashboard-
 
-**Project Summary**
+**Analysis Summary**
 
 As a data analyst, I analyzed three months of fulfillment and sales data totaling 2,400 transactions for VivCalif, an e-commerce clothing business. I evaluated order activity, product performance, customer satisfaction, and delivery efficiency to uncover operational insights. Using Excel, data modeling, and DAX, I developed a dynamic dashboard that visualizes key performance indicators and supports leadership decision-making across product strategy, customer experience, and fulfillment operations
 
@@ -103,7 +103,7 @@ Ratings:
 → 86% of ratings are 3 stars or higher, indicating good overall satisfaction.
 
 
-🔍 Interesting Insights
+🔍 Interesting Insights 
 
 Sneakers are the biggest revenue driver despite not being the top in quantity → higher price point.
 App orders dominate, suggesting strong mobile engagement. 
@@ -189,12 +189,7 @@ Highlights logistical bottlenecks and performance inconsistencies.
 A ranked bar chart showcasing the highest-performing items by quantity sold or revenue.
 Helps stakeholders prioritize product placement, promotions, and stock capacity.
 
-7. Sales vs. Rating Scatter Plot (Optional)
-
-A scatter plot comparing product rating to units sold.
-Helps identify whether higher customer ratings correlate with more sales.
-
-8. Delivery Time Trend Line
+7. Delivery Time Trend Line
 
 A time series line chart tracking how the company's average delivery speed changes over time.
 Useful for monitoring operational improvements.
