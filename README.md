@@ -32,9 +32,9 @@ Average Days to Deliver	Average delivery time (Delivery Date – Order Date)
 
 **Sales Trends**
 
-Peak Week: Week 10 with $64,915 in revenue and 1,128 units sold.
-Lowest Week: Week 1 with $32,413 in revenue and 546 units sold.
-Sales generally increase after Week 5, suggesting mid-quarter promotions or seasonal demand.
+Peak Week: **Week 10** with **$64,915** in revenue and **1,128** units sold.
+Lowest Week: **Week 1** with **$32,413** in revenue and **546** units sold.
+Sales generally increase after **Week 5**, suggesting mid-quarter promotions or seasonal demand.
 
 
 **Top Selling Products**
@@ -128,7 +128,7 @@ Average delivery time is within an acceptable range, but there is variability by
 
 Recommendation: Review logistics partners and explore multi-warehouse distribution.
 
-🛠️ Data Preparation & Cleaning
+**🛠️ Data Preparation & Cleaning**
 
 Standardized date fields and calculated delivery duration
 
@@ -144,7 +144,7 @@ Validated all fields for accuracy and consistency
 
 📈 Dashboard Features
 
-The dashboard includes:
+The dashboard includes"
 
 KPI cards highlighting core business metrics
 
