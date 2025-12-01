@@ -2,7 +2,7 @@
 
 **Project Summary**
 
-As a data analyst, I analyzed three months of fulfillment and sales data totaling 2,400 transactions for an e-commerce clothing business. I evaluated order activity, product performance, customer satisfaction, and delivery efficiency to uncover operational insights. Using Excel, data modeling, and DAX, I developed a dynamic dashboard that visualizes key performance indicators and supports leadership decision-making across product strategy, customer experience, and fulfillment operations
+As a data analyst, I analyzed three months of fulfillment and sales data totaling 2,400 transactions for VivCalif, an e-commerce clothing business. I evaluated order activity, product performance, customer satisfaction, and delivery efficiency to uncover operational insights. Using Excel, data modeling, and DAX, I developed a dynamic dashboard that visualizes key performance indicators and supports leadership decision-making across product strategy, customer experience, and fulfillment operations
 
 **Business Questions**
 
