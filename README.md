@@ -75,6 +75,7 @@ Instagram: $73K
 
 
 **Regional Performance**
+
 Top 5 counties by revenue:
 
 Los Angeles County: $215,551
@@ -159,6 +160,8 @@ Delivery efficiency by category or region
 Interactive filters for deeper drill-through analysis
 
 📉 **Charts & Visuals**
+
+
 1. Total Orders Trend Chart
 
 A line chart showing how total orders fluctuate over time. 
