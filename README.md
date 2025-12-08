@@ -101,12 +101,12 @@ Ratings:
 4 stars: 1,036 orders
 3 stars: 495 orders
 1–2 stars: 148 orders
-→ 86% of ratings are 3 stars or higher, indicating good overall satisfaction.
+→ _86% of ratings are 3 stars or higher, indicating good overall satisfaction.
 
 
 🔍 Interesting Insights 
 
-Sneakers are the biggest revenue driver despite not being the top in quantity → higher price point.
+Sneakers are the biggest revenue driver despite not being the top in sales → higher price point.
 App orders dominate, suggesting strong mobile engagement. 
 Los Angeles County alone accounts for ~33% of total revenue → huge regional concentration.
 Delivery is generally fast, but there are outliers (14 days) which can account for the lower end customer ratings (may need further investigation).
